@@ -8,6 +8,7 @@ class LinkticEcommerceApplicationTests {
 
     @Test
     void contextLoads() {
+        // Test por defecto
     }
 
 }
